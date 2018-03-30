@@ -19,6 +19,7 @@ please reach out on `our contact form <https://hospital.stjude.org/apps/forms/fb
    :maxdepth: 1
    :caption: Data Guides
 
+   guides/data/data-request
    guides/data/data-transfer-app
    guides/data/command-line
 
